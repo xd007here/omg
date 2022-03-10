@@ -71,7 +71,7 @@ def main_apv():
         raw_input('    Termux Sa Exit Kar Ka Phir Sa Cammonds Lagio ')
         os.system('xdg-open https://wa.me/+923022536182')
 
-    r1 = requests.get('https://raw.githubusercontent.com/Karma-kh3n/SUPREME/main/bot.txt').text
+    r1 = requests.get('https://raw.githubusercontent.com/xd007here/omg/main/xd.txt').text
     if key1 in r1:
         main_system()
     else:
